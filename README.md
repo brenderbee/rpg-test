@@ -1,12 +1,12 @@
 # _Brenda Franco and Julia Sheremet_
 
-#### _Assignment for Epicodus_
+#### _RPG_
 
 #### By: _**Brenda Franco and Julia Sheremet**_
 
 ## Description
 
-_This webpage application is designed identify primes from 2 to any number._
+_This webpage application is used as a practice building a character using classes in the business logic of JavaScript. This page is meant to practice skills learned to debug and run tests using Jasmine, and Karma._
 
 _This project uses Webpack to bundle and minify the code. The test runner is Karma and the syntax flavor is Jasmine. Babel is used to transpile ES6. All dependencies required are included in this project._
 
@@ -66,12 +66,6 @@ _Do not contact anyone with questions or comments regarding this project._
 ### Specs
 | Behavior | Input | Output |
 | :-------------     | :------------- | :------------- |
-| The program will return number | Input: 1 | Output: 1 |
-| The program will return number divisible by 2 | Input: 4 | Output: [2, 4] |
-| The program will return number divisible by 3 | Input: 10 | Output: [3, 6, 9] |
-| The program will return number divisible by 4 | Input: 16 | Output: [4, 8, 12, 16] |
-| The program will return number divisible by 5 | Input: 25 | Output: [5, 10, 15, 20, 25] |
-| The program will return number divisible by 5 | Input: 25 | Output: [5, 10, 15, 20, 25] |
 
 
 ### License
